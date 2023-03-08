@@ -1,0 +1,5 @@
+homepage: "https://www.boosterboxdigital.com/"
+documentation: "https://github.com/boosterbox/gtm-utm-storing-tag/blob/main/README.md"
+versions:
+  - sha: 405a07d3aec47c7649662eeffd26e87e0de23524
+    changeNotes: Initial release.
